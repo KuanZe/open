@@ -35,7 +35,7 @@ const getWslDrivesMountPoint = (() => {
 		try {
 			await fs.access(configFilePath, fsConstants.F_OK);
 			isConfigFileExists = true;
-		} catch {}
+		} catch (e) {}
 
 		if (!isConfigFileExists) {
 			return defaultMountPoint;
