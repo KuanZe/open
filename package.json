@@ -1,14 +1,14 @@
 {
-	"name": "open",
+	"name": "@kuanze/open",
 	"version": "8.4.0",
 	"description": "Open stuff like URLs, files, executables. Cross-platform.",
 	"license": "MIT",
-	"repository": "sindresorhus/open",
-	"funding": "https://github.com/sponsors/sindresorhus",
+	"repository": "https://github.com/KuanZe/open",
+	"funding": "https://github.com/KuanZe/open",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "https://sindresorhus.com"
+		"name": "Kostas Ladavicius",
+		"email": "kostasladavicius@hotmail.com",
+		"url": "https://github.com/KuanZe/open"
 	},
 	"engines": {
 		"node": ">=12"
